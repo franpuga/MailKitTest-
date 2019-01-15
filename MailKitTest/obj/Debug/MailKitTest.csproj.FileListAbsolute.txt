@@ -1,0 +1,16 @@
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MailKitTest.exe.config
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MailKitTest.exe
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MailKitTest.pdb
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MailKit.dll
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MimeKit.dll
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MailKit.xml
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\bin\Debug\MimeKit.xml
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.csprojAssemblyReference.cache
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.Form1.resources
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.Properties.Resources.resources
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.csproj.GenerateResource.cache
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.csproj.CoreCompileInputs.cache
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.csproj.CopyComplete
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.exe
+C:\Users\fjpuga\source\repos\MailKitTest\MailKitTest\obj\Debug\MailKitTest.pdb
